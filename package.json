@@ -13,8 +13,10 @@
     "react": "19.2.8",
     "react-dom": "19.2.8",
     "@supabase/ssr": "latest",
-    "@supabase/supabase-js": "latest"
-
+    "@supabase/supabase-js": "latest",
+    "react-hook-form": "latest",
+    "@hookform/resolvers": "latest",
+    "zod": "latest"
   },
   "devDependencies": {
     "@tailwindcss/postcss": "^4",
