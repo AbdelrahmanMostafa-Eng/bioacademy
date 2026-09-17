@@ -1,5 +1,6 @@
 {
   "crons": [
     { "path": "/api/cron/close-deadlines", "schedule": "*/15 * * * *" }
+    { "path": "/api/cron/deadline-reminders", "schedule": "0 * * * *" }
   ]
 }
